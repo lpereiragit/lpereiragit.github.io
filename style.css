@@ -25,7 +25,7 @@ hr {
 }
 
 .buffer {
-    height: 10rem;
+    height: 15rem;
 }
 
 .btn {
@@ -57,11 +57,11 @@ hr {
 }
 
 .btn-primary:hover {
-    transition: 0.2s;
-    -webkit-transition: 0.2s;
-    -moz-transition: 0.2s;
-    -ms-transition: 0.2s;
-    -o-transition: 0.2s;
+    transition: 9ms;
+    -webkit-transition: 9ms;
+    -moz-transition: 9ms;
+    -ms-transition: 9ms;
+    -o-transition: 9ms;
 }
 
 
